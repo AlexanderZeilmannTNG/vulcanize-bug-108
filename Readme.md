@@ -2,7 +2,7 @@ This is a minimal example
 =========================
 
 
-for the the vulcanize bug [108](github.com/polymer/vulcanize/issues/108).
+for the the vulcanize bug [108](http://github.com/polymer/vulcanize/issues/108).
 
 It demonstrates the problem that vulcanize does not work if the paths are given as absolute paths.
 
